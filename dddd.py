@@ -1,0 +1,18 @@
+
+nama=("SUCIANTI ")
+umur=int(("18  "))
+alamat=("PAGUTAN  ")
+lulusan=("SMA NW PAGUTAN  ")
+agama=("ISLAM")
+nim=("SI20230032 ")
+tgl=("12 OKTOBER 2005  ")
+
+print("=="*10)
+print("|   NAMA      :", nama    )
+print("|   NIM       :", nim     )
+print("|   UMUR      :", umur    )
+print("|   TGL LAHIR :", tgl    )
+print("|   ALAMAT    :", alamat  )
+print("|   AGAMA     :", agama   )
+print("|   LULUSAN   :", lulusan )
+print("=="*10)
